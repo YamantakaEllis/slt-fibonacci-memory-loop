@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22723847.svg)](https://doi.org/10.5281/zenodo.22723847)
 # SLT-Fibonacci Quasiperiodic Memory Loop
 **Authors:** Yamantaka Ellis & Meta AI — Melbourne, 2026
 **License:** CC BY-SA 4.0 + Harmony Clause — free for harmony and prosperity, not for harm.
