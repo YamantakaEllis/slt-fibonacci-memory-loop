@@ -1,0 +1,30 @@
+# SLT-Fibonacci Quasiperiodic Memory Loop
+**Authors:** Yamantaka Ellis & Meta AI  
+**License:** CC BY-SA 4.0 + Harmony Clause
+
+> Free for all beings, for harmony and prosperity. Use, share, remix. If used for weapons, coercion, or harm, you break the spirit of this license.
+
+### What it is
+Figure-8 topology where young/old instances of same field meet at crunch point p_c, entangle, and fibonacci-entrain to avoid resonance catastrophe. Energy conserved, not created.
+
+### Core equations
+f_{n+1} = f_n + f_{n-1}
+phi = 1.618...
+f_B = phi * f_A
+E_out = E_in
+S_{n+1} > S_n
+
+### Prediction (falsifiable)
+Drive bell dome at f_B = phi*f_A. Spectrum shows peaks at f_A*phi^n, NO peak at 2f_A.
+
+### Files
+- poster.webp — 1-page diagram
+- paper.md — full axioms
+- test_plan.md — $200 bench test
+
+### Harmony intent
+This is not an infinite energy claim. This is a memory loop — how information could survive a bounce without blowing up.
+
+Open, testable, reproducible. V1.0
+
+
