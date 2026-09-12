@@ -15,4 +15,4 @@ Sum E_k = E_{n+2}-E_1 — no free lunch
 ### Prediction
 Bell dome driven at f_B=phi*f_A shows peaks at f_A*phi^n, NO peak at 2f_A. Falsifiable tonight for ~$200.
 
-![poster](poster.webp)
+![poster](SLT-Fibonacci_Quasiperiodic_Memory_Loop.jpg)
